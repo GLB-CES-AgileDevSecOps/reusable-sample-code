@@ -1,2 +1,2 @@
-# APN Blogs (Public)
-APN blog related articles, sample code and configurations
+# Blogs (Public)
+Public blog related articles, sample code and configurations
